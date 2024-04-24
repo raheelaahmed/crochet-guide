@@ -122,3 +122,19 @@ h2 {
     height: 500px;
 
 }
+
+#written-pattern h1 {
+    padding-top: 80px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+#crochet-jumper {
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+#crochet-jumper img {
+    width: 500px;
+    height: 500px;
+}
