@@ -52,15 +52,15 @@ h2 {
 
     font-size: 130%;
 
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 2px;
 
 
-    width: 180px;
+    width: 165px;
     height: 700px;
 
     padding-top: 80px;
-    padding-left: 0;
+    padding-left: 10px;
 
 
 
@@ -118,7 +118,7 @@ h2 {
 
 }*/
 #image img {
-    width:fit-content;
+    width: fit-content;
     height: 500px;
-    
+
 }
