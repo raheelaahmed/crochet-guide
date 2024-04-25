@@ -42,9 +42,9 @@
 
 }
 
-h2 {
+/*h2 {
     float: right;
-}
+}*/
 
 
 
@@ -113,10 +113,7 @@ h2 {
 
 }
 
-/*#image div {
-    width: 300px;
 
-}*/
 #image img {
     width: fit-content;
     height: 500px;
@@ -135,6 +132,141 @@ h2 {
 }
 
 #crochet-jumper img {
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#crochet-jumper h2 {
+    text-align: left;
+
+}
+
+#crochet-jumper p {
+    word-spacing: 4px;
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+#crochet-jumper h3 {
+    color: blue;
+    font-weight: bolder;
+}
+
+#dish-cloth img {
+
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+#dish-cloth h2 {
+    text-align: left;
+
+}
+
+#dish-cloth p {
+    word-spacing: 4px;
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+#dish-cloth h3 {
+    color: blue;
+    font-weight: bolder;
+}
+
+#crochet-dress img {
+
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+#crochet-dress h2 {
+    text-align: left;
+
+}
+
+#crochet-dress p {
+    word-spacing: 4px;
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+#crochet-dress h3 {
+    color: blue;
+    font-weight: bolder;
+}
+
+#sleeveless-sweater img {
+
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+#sleeveless-sweater h2 {
+    text-align: left;
+
+}
+
+#sleeveless-sweater p {
+    word-spacing: 4px;
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+#sleeveless-sweater h3 {
+    color: blue;
+    font-weight: bolder;
+}
+
+#heart img {
+
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+#heart h2 {
+    text-align: left;
+
+}
+
+#heart p {
+    word-spacing: 4px;
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+#heart h3 {
+    color: blue;
+    font-weight: bolder;
 }
