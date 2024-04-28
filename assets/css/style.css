@@ -1,25 +1,37 @@
 * {
     margin: 0;
-    padding-top: 5px;
+    padding-top: 0;
     padding-left: 0;
+    padding-bottom: 40px;
     border: none;
-    color: rgb(38, 37, 37);
-    background-color: silver;
+    color: rgb(28, 26, 26);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+
 }
 
+
+/*logo styling*/
 #logo {
+
+    font-family: "Montserrat",
+        sans-serif;
     font-weight: bold;
+
     float: left;
     font-size: 280%;
     margin-left: 30px;
 
+
 }
 
 
 
+/* vav bar(menu) styling*/
 
 #menu {
-    font-size: 120%;
+
     letter-spacing: 4px;
     font-weight: bolder;
 
@@ -30,17 +42,19 @@
     list-style-type: none;
     margin-right: 30px;
     text-transform: capitalize;
+    font-size: 25px;
 
 }
-
+/*tagline styling*/
 #tag-line {
     padding-top: 100px;
     text-align: center;
     text-transform: capitalize;
 
 }
+/* main page image*/
 
-#yarn {
+#yarn img {
     height: 500px;
     width: 100%;
     padding-top: 200px;
@@ -53,19 +67,19 @@
 
 
 
-
+/* side text for main page*/
 #text-over {
 
-    font-size: 130%;
+    font-size: 15px;
 
     text-transform: lowercase;
     letter-spacing: 2px;
 
 
-    width: 165px;
-    height: 700px;
+    width: 200px;
+    height: 500px;
 
-    padding-top: 80px;
+
     padding-left: 10px;
 
 
@@ -79,17 +93,24 @@
 
 }
 
+#text-over p {
+    font-family: "Montserrat", sans-serif;
+    word-spacing: 4px;
+
+}
+
 #text-over h3 {
     text-transform: capitalize;
 }
 
-
+/* footer social media links*/
 #social-media {
     font-weight: bolder;
     text-align: center;
     margin: 0 auto;
-    padding-top: 40px;
+    padding-top: 60px;
     padding-bottom: 40px;
+
 
 
 }
@@ -98,29 +119,33 @@
     list-style-type: none;
     display: contents;
     text-transform: capitalize;
-
+    font-size: 25px;
+    word-spacing: 30px;
 
 
 }
+/* about us*/
+#story h1 {
+    padding-top: 80px;
 
-#story {
-    padding-top: 60px;
+    padding-left: 10px;
+    font-size: 40px;
 
-    padding-left: 60px;
-    padding-right: 60px;
+
 }
 
 #story p {
-    font-size: large;
-    padding-top: 20px;
-    font-family: Arial, Helvetica, sans-serif;
     word-spacing: 4px;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 
 }
 
 #image {
     padding-top: 60px;
-    /* background: url(assets/images/dish cloth.jpg) norepeat;*/
+
     padding-left: 60px;
     padding-right: 60px;
 
@@ -129,11 +154,13 @@
 
 
 #image img {
-    width: fit-content;
-    height: 500px;
+    width: 750px;
+    height: 750px;
+
 
 }
 
+/*written pattern page*/
 #written-pattern h1 {
     padding-top: 80px;
     padding-left: 30px;
@@ -154,6 +181,7 @@
 
     margin: 0 auto;
     text-align: center;
+    border: 10px solid grey;
 
 }
 
@@ -164,9 +192,15 @@
 
 #crochet-jumper p {
     word-spacing: 4px;
-    font-size: large;
-    padding-bottom: 20px;
+
+
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
+
 
 #crochet-jumper h3 {
     color: blue;
@@ -183,6 +217,7 @@
 
     margin: 0 auto;
     text-align: center;
+    border: 10px solid grey;
 }
 
 #dish-cloth h2 {
@@ -192,9 +227,15 @@
 
 #dish-cloth p {
     word-spacing: 4px;
-    font-size: large;
-    padding-bottom: 20px;
+
+
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
+
 
 #dish-cloth h3 {
     color: blue;
@@ -211,7 +252,9 @@
 
     margin: 0 auto;
     text-align: center;
+    border: 10px solid grey;
 }
+
 
 #crochet-dress h2 {
     text-align: left;
@@ -220,9 +263,15 @@
 
 #crochet-dress p {
     word-spacing: 4px;
-    font-size: large;
-    padding-bottom: 20px;
+
+
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
+
 
 #crochet-dress h3 {
     color: blue;
@@ -239,6 +288,7 @@
 
     margin: 0 auto;
     text-align: center;
+    border: 10px solid grey;
 }
 
 #sleeveless-sweater h2 {
@@ -248,8 +298,13 @@
 
 #sleeveless-sweater p {
     word-spacing: 4px;
-    font-size: large;
-    padding-bottom: 20px;
+
+
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
 
 #sleeveless-sweater h3 {
@@ -267,6 +322,7 @@
 
     margin: 0 auto;
     text-align: center;
+    border: 10px solid grey;
 }
 
 #heart h2 {
@@ -276,8 +332,13 @@
 
 #heart p {
     word-spacing: 4px;
-    font-size: large;
-    padding-bottom: 20px;
+
+
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
 
 #heart h3 {
@@ -285,31 +346,105 @@
     font-weight: bolder;
 }
 
-#contact-us h1 {
 
 
+/* contact us page*/
+#contact-us {
     padding-top: 120px;
-    text-align: center;
-
-
-
+    padding-left: 600px;
+    padding-bottom: 100px;
 }
 
 #contact-us form {
-    padding-top: 100px;
+
     font-size: 30px;
 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration-style: solid;
     word-spacing: 6px;
-    text: padding top 10px;
-
-
+    width: 500px;
+    height: 500px;
 }
+
+
+
+
 
 #contact-us form button {
     font-size: larger;
     font-weight: bold;
 
+
+}
+
+#contact-us textarea {
+    border: 2px solid;
+    padding: 5px;
+    color: black;
+}
+
+#contact-us input {
+    border: 2px solid;
+    padding: 5px;
+    color: dark grey;
+}
+
+#contact-us fieldset {
+    border: 4px solid black;
+    width: 400px;
+    height: 400px;
+
+}
+
+#contact-us legend {
+    font-size: 30px;
+    font-weight: bold;
+
+
+}
+
+/* video tutorial page*/
+#video iframe {
+
+    height: 700px;
+    width: 100%;
+    /* animation*/
+    transition: transform 0.3s ease-in-out;
+   
+}
+
+#video {
+    position: relative;
+
+    overflow: hidden;
+
+}
+
+
+
+
+#video:hover iframe {
+    transform: scale(1.1);
+    /* Increases video size on hover */
+}
+
+
+
+/*footer background*/
+footer {
+
+    background-color: rosybrown;
+
+    padding: 0;
+
+}
+
+
+/* submit form page*/
+
+#message h1,
+p {
+    text-align: center;
+    font-size: 40px;
 }
