@@ -6,7 +6,7 @@
     border: none;
     color: rgb(28, 26, 26);
     font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
+
 
 
 }
@@ -116,6 +116,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 
 }
 
@@ -369,7 +370,7 @@
 #contact-us input {
     border: 2px solid;
     padding: 5px;
-    color: dark grey;
+
 }
 
 #contact-us fieldset {
@@ -429,4 +430,33 @@ footer {
 p {
     text-align: center;
     font-size: 40px;
+}
+
+/* Styles for extra small devices (up to 600px) */
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+        /* Adjust font size for smaller screens */
+    }
+
+    .content {
+        width: 100%;
+        /* Make content area full width on small screens */
+    }
+}
+
+/* Styles for medium devices (landscape tablets: 768px to 992px) */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .content {
+        width: 70%;
+        /* Adjust content width for medium screens */
+    }
+}
+
+/* Styles for large devices (laptops/desktops: 992px and up) */
+@media only screen and (min-width: 992px) {
+    .content {
+        width: 60%;
+        /* Adjust content width for large screens */
+    }
 }
