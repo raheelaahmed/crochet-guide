@@ -45,6 +45,7 @@
     font-size: 25px;
 
 }
+
 /*tagline styling*/
 #tag-line {
     padding-top: 100px;
@@ -52,6 +53,7 @@
     text-transform: capitalize;
 
 }
+
 /* main page image*/
 
 #yarn img {
@@ -124,7 +126,8 @@
 
 
 }
-/* about us*/
+
+/* about us page*/
 #story h1 {
     padding-top: 80px;
 
@@ -199,6 +202,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 }
 
 
@@ -411,7 +415,7 @@
     width: 100%;
     /* animation*/
     transition: transform 0.3s ease-in-out;
-   
+
 }
 
 #video {
