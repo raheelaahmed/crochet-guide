@@ -67,43 +67,16 @@
 }
 
 
-
-
-/* side text for main page*/
-#text-over {
-
-    font-size: 15px;
-
-    text-transform: lowercase;
-    letter-spacing: 2px;
-
-
-    width: 200px;
-    height: 500px;
-
-
-    padding-left: 10px;
-
-
-
-    bottom: 40px;
-    right: 0;
-
-    position: absolute;
-    float: right;
-
+#about-us h2 {
+    text-align: center;
 
 }
 
-#text-over p {
-    font-family: "Montserrat", sans-serif;
-    word-spacing: 4px;
 
-}
 
-#text-over h3 {
-    text-transform: capitalize;
-}
+
+
+
 
 /* footer social media links*/
 #social-media {
@@ -238,6 +211,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 }
 
 
@@ -274,6 +248,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 }
 
 
@@ -309,6 +284,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 }
 
 #sleeveless-sweater h3 {
@@ -343,6 +319,7 @@
     padding-left: 10px;
     font-size: 30px;
     padding-bottom: 40px;
+    text-align: left;
 }
 
 #heart h3 {
@@ -357,6 +334,7 @@
     padding-top: 120px;
     padding-left: 600px;
     padding-bottom: 100px;
+    width: 100px;
 }
 
 #contact-us form {
