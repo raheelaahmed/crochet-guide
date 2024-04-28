@@ -74,11 +74,12 @@ body {
 /* main page image*/
 
 #yarn img {
-    height: 500px;
-    width: 100%;
+
+    width: 400px;
+    height: 400px;
     padding-top: 200px;
-    margin-right: 0;
-    padding-bottom: 600px;
+    padding-left: 50px;
+
 
 
 }
@@ -148,8 +149,8 @@ body {
 
 
 #image img {
-    width: 750px;
-    height: 750px;
+    width: 375px;
+    height: 375px;
 
 
 }
@@ -167,8 +168,8 @@ body {
 }
 
 #crochet-jumper img {
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;
@@ -204,8 +205,8 @@ body {
 
 #dish-cloth img {
 
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;
@@ -240,8 +241,8 @@ body {
 
 #crochet-dress img {
 
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;
@@ -277,8 +278,8 @@ body {
 
 #sleeveless-sweater img {
 
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;
@@ -312,8 +313,8 @@ body {
 
 #heart img {
 
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;
@@ -405,7 +406,7 @@ body {
 /* video tutorial page*/
 #video iframe {
 
-    height: 700px;
+    height: 600px;
     width: 100%;
     /* animation*/
     transition: transform 0.3s ease-in-out;
@@ -445,6 +446,7 @@ footer {
 p {
     text-align: center;
     font-size: 40px;
+    padding-bottom: 100px;
 }
 
 /* Styles for extra small devices (up to 600px) */
