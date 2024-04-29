@@ -351,6 +351,13 @@ body {
 /* contact us page*/
 
 
+#contact-us {
+    padding-top: 80px;
+    text-align: center;
+
+}
+
+
 #contact-us form {
 
     font-size: 30px;
@@ -359,6 +366,7 @@ body {
 
     text-decoration-style: solid;
     word-spacing: 4px;
+
 
 
 }
@@ -388,9 +396,11 @@ body {
 }
 
 #contact-us fieldset {
-    border: 2px solid black;
-    width: 300px;
-    height: 300px;
+    border: 1px solid black;
+    width: 350px;
+    height: 400px;
+    float: center;
+
 
 
 }
@@ -479,14 +489,19 @@ p {
 /* Styles for medium devices (landscape tablets: 768px to 992px) */
 @media only screen and (min-width: 768px) and (max-width: 992px) {
     body {
-        width: 70%;
+        width: 100%;
         /* Adjust content width for medium screens */
     }
 
     #menu ul {
-        width: 70%;
+        width: 100%;
 
     }
+
+    #menu li {
+        font-size: 16px;
+    }
+
 
 }
 
@@ -494,11 +509,15 @@ p {
 /* Styles for large devices (laptops/desktops: 992px and up) */
 @media only screen and (min-width: 992px) {
     body {
-        width: 60%;
+        width: 100%;
         /* Adjust content width for large screens */
     }
 
     #menu {
-        width: 60%;
+        width: 100%;
+    }
+
+    #menu li {
+        font-size: 20px;
     }
 }
