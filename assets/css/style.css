@@ -72,12 +72,15 @@ body {
 }
 
 /* main page image*/
+#yarn {
+    padding-top: 20px;
+}
 
-#yarn img {
+#yarn image {
 
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
+    width: 700px;
+    height: 700px;
+    padding-top: 50px;
     padding-left: 50px;
 
 

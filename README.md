@@ -1,39 +1,53 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Welcome to Crochet-Guide!
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+What You'll Find Here:
 
-## Codeanywhere Reminders
+Written Patterns:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+I offer a variety of crochet patterns for all skill levels, from beginner-friendly projects to more intricate designs.
+You can find written patterns for clothing,  home decor, croceht for baby etc.
+ Video tutorials:
 
-`python3 -m http.server`
+Need some help with a specific stitch or technique? I've created a collection of crochet tutorials to guide you through the process.
+These tutorials are available in [mention format, e.g., written format, video format, or both] and cover a wide range of topics.
+contact us
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Have Questions? I'm happy to help! Feel free to contact me on this website.
+About us :
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+I've been crocheting for about a decade  and am always learning new things. and i love to share my projects with you.if you want to learn more about me click here.
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+some yarn images any granny square picture,i took from "FreeImages.com", "unsplash.com", "istockphoto.com"
+iamges i used with pattern are my own pictures.
+[Link to color palette inspiration]
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Stay Connected:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Follow me on social media for updates, sneak peeks at new projects, and to connect with the crochet community:
 
----
+[Link to your social media profiles, e.g., Facebook, Instagram]
 
-Happy coding!
+
+Copyright and Usage:
+
+All patterns and content on this website are copyrighted by [Rania Crochet Guide]. You are welcome to sell items made from my patterns, but please give credit to me as the designer.
+
+Thank You!
+
+Thank you for visiting my website! I hope you find something here that sparks your creativity and brings you joy. Happy crocheting!
+
+
+
+
+
+share
+
+
+Rania Crochet Guide
