@@ -120,7 +120,7 @@ body {
 
 /* about us page*/
 #story h1 {
-    padding-top: 80px;
+    padding-top: 120px;
 
     padding-left: 10px;
     font-size: 40px;
@@ -149,15 +149,15 @@ body {
 
 
 #image img {
-    width: 375px;
-    height: 375px;
+    width: 350px;
+    height: 350px;
 
 
 }
 
 /*written pattern page*/
 #written-pattern h1 {
-    padding-top: 80px;
+    padding-top: 90px;
     padding-left: 30px;
     text-align: center;
 }
@@ -358,9 +358,8 @@ body {
     text-align: center;
 
     text-decoration-style: solid;
-    word-spacing: 6px;
-    width: 500px;
-    height: 500px;
+    word-spacing: 4px;
+
 
 }
 
@@ -378,7 +377,7 @@ body {
 
 #contact-us textarea {
     border: 2px solid;
-    padding: 5px;
+    padding: 3px;
     color: black;
 }
 
@@ -452,41 +451,54 @@ p {
 /* Styles for extra small devices (up to 600px) */
 @media only screen and (max-width: 600px) {
     body {
-        font-size: 14px;
+        width: 100%;
+
         /* Adjust font size for smaller screens */
     }
 
-    .content {
+    #menu ul {
         width: 100%;
-        /* Make content area full width on small screens */
-    }
-}
+        text-align: right;
 
-/* Styles for extra small devices (up to 600px) */
-@media only screen and (max-width: 600px) {
-    body {
+    }
+
+    #menu li {
         font-size: 14px;
-        /* Adjust font size for smaller screens */
     }
 
-    .content {
+
+
+    /*.content {
         width: 100%;
-        /* Make content area full width on small screens */
-    }
+        
+    }*/
 }
+
+
 
 /* Styles for medium devices (landscape tablets: 768px to 992px) */
 @media only screen and (min-width: 768px) and (max-width: 992px) {
-    .content {
+    body {
         width: 70%;
         /* Adjust content width for medium screens */
     }
+
+    #menu ul {
+        width: 70%;
+
+    }
+
 }
+
 
 /* Styles for large devices (laptops/desktops: 992px and up) */
 @media only screen and (min-width: 992px) {
-    .content {
+    body {
         width: 60%;
         /* Adjust content width for large screens */
+    }
+
+    #menu {
+        width: 60%;
     }
 }
