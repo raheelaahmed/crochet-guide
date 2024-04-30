@@ -1,7 +1,7 @@
 <h1>Welcome to Crochet-Guide!</h1>
 
 
-I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
+I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with all of you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
 
 This website is designed to share my crochet projects with you.
 website is user friendly, it has following feachers:
@@ -19,7 +19,10 @@ website is user friendly, it has following feachers:
 <h2>Home:</h2> This is linked to Home page, you can come back to home page with this feacher.
 <h2>Written Patterns:</h2>This is another page of the website that have images and  crochet pattern discription, this page is linked to an external blog.
 <h2>Video Tutorial:</h2> This  webpage  have video tutorial for crochet projects.
-There is Tagline and hero image in the center of  the page.
+<br>
+<br>
+<br>
+<h2>TagLine and Hero Image</h2>There is Tagline and hero image in the center of the page.
 <br>
 <br>
 <br>
@@ -32,7 +35,7 @@ There is Tagline and hero image in the center of  the page.
 <br>
 <img src="assets/images/footer.png">
 
-<h2>Images:</h2>I have used few images for "Pexel.com,Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
+<h2>Images:</h2>I have used few images for "Pexel.com, Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
 
 <h2>Fonts and Icons:</h2> Google font and Font Awesome icons are used for styling the website.
 
