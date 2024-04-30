@@ -1,4 +1,4 @@
-Welcome to Crochet-Guide!
+<h1>Welcome to Crochet-Guide!</h1>
 
 
 I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.

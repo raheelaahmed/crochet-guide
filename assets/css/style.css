@@ -59,6 +59,7 @@ body {
     float: right;
     list-style-type: none;
     margin-right: 50px;
+    text-transform: capitalize;
 }
 
 
@@ -163,6 +164,7 @@ body {
     padding-top: 90px;
     padding-left: 30px;
     text-align: center;
+    text-transform: capitalize;
 }
 
 #crochet-jumper {
@@ -171,7 +173,7 @@ body {
 }
 
 #crochet-jumper img {
-    width: 400px;
+    width: 375px;
     height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -185,6 +187,7 @@ body {
 
 #crochet-jumper h2 {
     text-align: left;
+    text-transform: capitalize;
 
 }
 
@@ -208,7 +211,7 @@ body {
 
 #dish-cloth img {
 
-    width: 400px;
+    width: 375px;
     height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -221,6 +224,7 @@ body {
 
 #dish-cloth h2 {
     text-align: left;
+    text-transform: capitalize;
 
 }
 
@@ -244,7 +248,7 @@ body {
 
 #crochet-dress img {
 
-    width: 400px;
+    width: 375px;
     height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -258,6 +262,7 @@ body {
 
 #crochet-dress h2 {
     text-align: left;
+    text-transform: capitalize;
 
 }
 
@@ -281,7 +286,7 @@ body {
 
 #sleeveless-sweater img {
 
-    width: 400px;
+    width: 375px;
     height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -294,6 +299,7 @@ body {
 
 #sleeveless-sweater h2 {
     text-align: left;
+    text-transform: capitalize;
 
 }
 
@@ -316,7 +322,7 @@ body {
 
 #heart img {
 
-    width: 400px;
+    width: 375px;
     height: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -329,6 +335,7 @@ body {
 
 #heart h2 {
     text-align: left;
+    text-transform: capitalize;
 
 }
 
@@ -358,17 +365,34 @@ body {
     padding-top: 80px;
     text-align: center;
 
+
+
 }
 
 
-#contact-us form {
+#contact-us form{
 
-    font-size: 30px;
+    /*font-size: 30px;
 
-    text-align: center;
+
 
     text-decoration-style: solid;
-    word-spacing: 4px;
+    word-spacing: 4px;*/
+    
+            display: flex;
+            /* Set the form container to a flexbox */
+            flex-direction: column;
+            /* Arrange form elements vertically by default (optional) */
+            align-items: center;
+            /* Align form elements horizontally to center */
+            margin: 0 auto;
+            /* Add margins for horizontal centering */
+        
+    
+
+
+
+
 
 
 
@@ -402,7 +426,10 @@ body {
     border: 1px solid black;
     width: 350px;
     height: 400px;
-    float: center;
+    margin-left: 4px;
+    padding-left: 4px;
+    align-items: center;
+
 
 
 
