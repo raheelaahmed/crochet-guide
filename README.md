@@ -3,6 +3,7 @@
 
 I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
 
+This website is designed to share my crochet work with you 
 on this website you will see the logo on top left side "Rania Crochet Guide", it is linked to home page ,when you will click on it it will bring you to home page.
 there is navigation bar on the right side representing three  pages of website "<a href="https://raheelaahmed.github.io/crochet-guide/contact-us.html">contact us" </a>, this page a form to contact the deignner by providing name,email and a message.,message will be sent through submit button(you will get thankyou for contacting us message) by clicking submit button which is connected to a hidden webpage"submit-form.html",  <a href="https://raheelaahmed.github.io/crochet-guide/written-patterns.html">
 "written patterns"</a>
@@ -16,9 +17,7 @@ there is a tag line on the top of hero image"Keep Calm And Crochet On". ihave us
 
 Above picture is used as hero image for home page.it has perfact sahdes to go with backgorund and footer.
  below picture you can find more about designer of "Rania Crochet Guide" with a linked page <a href="https://raheelaahmed.github.io/crochet-guide/About-me.html">"About Us"</a>this is a webpage that has story of the deigner and some colorfull pictures.
- <img src="assets/images/writtenpatterns.png" alt="written patterns screen shot">
- <img src="assets/images/video tutorials.png" alt="video tutorial screenshot">
- <img src="assets/images/contactus.png" alt="contact us screenshot">
+ 
 
 
  at the bottom of page you can find all the social media links,when clicked they will open in a seprate browser.
