@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding-top: 20px;
+    padding-top: 0;
     padding-left: 0;
     padding-bottom: 0;
     border: none;
@@ -80,6 +80,7 @@ body {
     height: 700px;
     padding-top: 50px;
     padding-left: 50px;
+    object-fit: cover;
 
 
 
@@ -152,6 +153,7 @@ body {
 #image img {
     width: 350px;
     height: 350px;
+    object-fit: cover;
 
 
 }
@@ -317,11 +319,12 @@ body {
 
 
 #contact-us div {
-    padding-top: 80px;
+
     text-align: center;
     width: 100vw;
     display: flex;
     justify-content: center;
+    margin: auto;
 
 
 
@@ -380,6 +383,7 @@ body {
     margin-left: 4px;
     padding-left: 4px;
     align-items: center;
+    padding-top: 20px;
 
 
 
@@ -394,6 +398,11 @@ body {
 }
 
 /* video tutorial page*/
+
+#video h2 {
+    padding-top: 50px;
+}
+
 #video iframe {
 
     height: 600px;
@@ -413,10 +422,7 @@ body {
 
 
 
-#video:hover iframe {
-    transform: scale(1.1);
-    /* Increases video size on hover */
-}
+
 
 
 
@@ -427,18 +433,32 @@ footer {
 
     padding: 0;
 
+
+
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body>footer {
+    position: sticky;
+    top: 100vh;
 }
 
 
 /* submit form page*/
 
 
-#message h1 {
+#message h2 {
     text-transform: capitalize;
     padding-top: 20px;
+
+
 }
 
-#message h1,
+#message h2,
 p {
     text-align: center;
     font-size: 40px;
