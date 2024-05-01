@@ -5,7 +5,7 @@
 I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with all of you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
 
 This website is designed to share my crochet projects with you.
-website is user friendly, it has following feachers:
+website is user friendly, it has following features:
 
 
 ####
@@ -37,7 +37,7 @@ website is user friendly, it has following feachers:
 
 
 
-When we press submit button, it will bring you to a new Webpage "submit-form.html".
+When submit button is pressed, it takes us to a new Webpage "submit-form.html".
 
 
 
@@ -54,7 +54,7 @@ When we press submit button, it will bring you to a new Webpage "submit-form.htm
 
 
 ## Home: 
-This is linked to Home page, you can come back to home page with this feacher.
+This is linked to Home page, you can come back to home page with this feature.
 
 
 ## Written Patterns:
@@ -64,7 +64,7 @@ This is another page of the website that have images and  crochet pattern discri
 
 
 ## Video Tutorial:
-This  webpage  have video tutorial for crochet projects.
+This  webpage  have video tutorial for crochet projects. These video tutorials are embeded from Youtube.
 
 
 
@@ -141,7 +141,7 @@ I have used  images from "Pexel.com, Unsplash.com and FreeImages.com". Images us
 
 ## TESTING: 
 
-I tested my website  CSS code using  "The W3C CSS Validation Service" and there were no errors found in my css code.
+I tested my website  CSS code using official Jigsaw Validator and there were no errors found in my css code.
 
 
 
@@ -155,7 +155,11 @@ I tested my website  CSS code using  "The W3C CSS Validation Service" and there 
 
 
 
-I tested my HTML code using "Nu Html Checker" and there were errors or warnings in my html code.
+I tested my HTML code using official W3C Validator and there were errors or warnings in my html code.
+
+### Note: 
+
+My file adds automatic self-closing tags on "save" in Gitpod.
 
 
 
@@ -168,15 +172,13 @@ I tested my HTML code using "Nu Html Checker" and there were errors or warnings 
 
 
 
-### Note: 
-
-My file adds automatic self-closing tags on "save" in Gitpod.
 
 
 
 
 
-I  have used lighthouse as well for testing,here are the results:
+
+I  have used lighthouse  in div tools to check the accessibility, here are the results:
 
 
 
@@ -191,6 +193,8 @@ I  have used lighthouse as well for testing,here are the results:
 ## Bugs ans Fixes:
 
 I was having problem with responsiveness of my webdesign and i solved my problem using "html Media Quries".
+
+
 
 
 
