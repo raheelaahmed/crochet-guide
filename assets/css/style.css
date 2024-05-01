@@ -125,7 +125,7 @@ body {
 
     padding-top: 80px;
     padding-left: 10px;
-    font-size: 40px;
+    font-size: 25px;
 
 
 }
@@ -325,6 +325,7 @@ body {
     display: flex;
     justify-content: center;
     margin: auto;
+    padding-top: 50px;
 
 
 
@@ -453,7 +454,7 @@ body>footer {
 
 #message h2 {
     text-transform: capitalize;
-    padding-top: 20px;
+    padding-top: 250px;
 
 
 }
