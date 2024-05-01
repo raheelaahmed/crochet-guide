@@ -23,12 +23,25 @@ website is user friendly, it has following feachers:
 
 
 ![Logo](documents/screenshots/logo.png)
+
+
+
 ## Contact Us:
  This webpage have contact us form.
+
+
+
 ![contact-us](documents/screenshots/contactus.png)
 
 
+
+
+
 When we press submit button, it will bring you to a new Webpage "submit-form.html".
+
+
+
+
 
 
 ![thankyou-message](documents/screenshots/thankyou.png)
@@ -42,13 +55,22 @@ When we press submit button, it will bring you to a new Webpage "submit-form.htm
 
 ## Home: 
 This is linked to Home page, you can come back to home page with this feacher.
+
+
 ## Written Patterns:
 This is another page of the website that have images and  crochet pattern discription, this page is linked to an external blog.
+
+
+
+
 ## Video Tutorial:
 This  webpage  have video tutorial for crochet projects.
 
+
+
 ## TagLine and Hero Image:
-There is Tagline and hero image in the center of the page.
+
+There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of the page.
 
 
 
@@ -56,11 +78,18 @@ There is Tagline and hero image in the center of the page.
 
 
 
+
 ## About us:
- About Us is another webpage that has story of Rania's jouney of becoming  a Crochet Designer.
+ 
+ 
+ Below hero image there is another linked page "About Us".
+ on this webpage designer share her story of becoming a ctrochet designer.
+ 
+
 
 
 ![about-us](documents/screenshots/about-us.png)
+
 
 
 ## Footer:
@@ -69,48 +98,90 @@ There is Tagline and hero image in the center of the page.
 
  ![Footer](assets/images/footer.png)
 
+
+
+
 ## Credits:
 
-I have used few images for "Pexel.com, Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
+I have used  images from "Pexel.com, Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
+
+
 
 ## Fonts and Icons:
  Google font and Font Awesome icons are used for styling the website.
 
+
+
 ## Deployment:
+
  I have used git hub for creating my repositoty and codespaces for creating website. I deployed my project through git hub by following these steps:
+
+
 ####
 
 1. Create a Repository.
 1.  Click settings.
-1.  From the left side bar open Pages.
+1.  From the left side bar  menu open Pages.
 1. select main ,root branch.
 1.  Deploy your work.
 1. Website link will apear in few seconds.
+
+
+ Live Website link : https://raheelaahmed.github.io/crochet-guide/
+
+
 
 ## Cloning:
 
  you can clone this project using this url "https://github.com/raheelaahmed/crochet-guide.git".
 
+
+
+
+
 ## TESTING: 
 
 I tested my website  CSS code using  "The W3C CSS Validation Service" and there were no errors found in my css code.
+
+
+
+
+
 
 ![css-validation](documents/screenshots/css-validation.png)
 
 
 
+
+
+
 I tested my HTML code using "Nu Html Checker" and there were errors or warnings in my html code.
 
+
+
+
+
+![HTML-testing](documents/screenshots/html-testing.png)
+
+
+
+
+
+
 ### Note: 
-"I used Gitpod Codespaces to make my project and it automatically adds "/" closing tag ,when we save the changes in the files".
+
+My file adds automatic self-closing tags on "save" in Gitpod.
 
 
 
-I used lighthouse as well for testing,here are the results:
+
+
+I  have used lighthouse as well for testing,here are the results:
 
 
 
-![lightouse-performace](documents/screenshots/inspect-lighthouse.png)
+
+
 
 
 ![html-testing](documents/screenshots/performance-testing.png)
@@ -120,6 +191,7 @@ I used lighthouse as well for testing,here are the results:
 ## Bugs ans Fixes:
 
 I was having problem with responsiveness of my webdesign and i solved my problem using "html Media Quries".
+
 
 
 ![Responsive-design](documents/screenshots/responsivene-design.png)
