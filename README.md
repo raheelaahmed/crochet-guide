@@ -1,58 +1,132 @@
-<h1>Welcome to Crochet-Guide!</h1>
+# Welcome to [Crochet-Guide!](https://raheelaahmed.github.io/crochet-guide/index.html)
+
 
 
 I'm Rania, and crochet is my passion! This website is a space for me to share my love for the craft with all of you. Whether you're a seasoned crocheter or just picking up a hook for the first time, I hope you find something here to inspire you.
 
 This website is designed to share my crochet projects with you.
 website is user friendly, it has following feachers:
-<ul>
-<li>Logo</li>
-<li>Navigation bar
-<ol>
-<li>Home</li>
-<li>Contact Us</li>
-<li>Written Patterns</li>
-<li>Video Tutorial</li></ol></li></ul>
+
+
+####
+- Logo
+- Navigation bar
+    - [Home](https://raheelaahmed.github.io/crochet-guide/index.html)
+    - [Contact Us](https://raheelaahmed.github.io/crochet-guide/contact-us.html)
+    - [Written Patterns](https://raheelaahmed.github.io/crochet-guide/written-patterns.html)
+    - [Video Tutorials](https://raheelaahmed.github.io/crochet-guide/video-tutorials.html)
+
+
 "Home" is not included on the home page. All the 4 list items are linked to webpages.
-<h2>Logo(Rania Crochet Guide):</h2> Rania Crochet Guide is the Logo of the website and is linked to home page.
-<h2>Contact Us:</h2> This webpage have contact us form.
-<h2>Home:</h2> This is linked to Home page, you can come back to home page with this feacher.
-<h2>Written Patterns:</h2>This is another page of the website that have images and  crochet pattern discription, this page is linked to an external blog.
-<h2>Video Tutorial:</h2> This  webpage  have video tutorial for crochet projects.
-<br>
-<br>
-<br>
-<h2>TagLine and Hero Image</h2>There is Tagline and hero image in the center of the page.
-<br>
-<br>
-<br>
-<img src="assets/images/Screenshot 2024-04-30 at 21.08.37.png"> 
+## Logo(Rania Crochet Guide):
+ Rania Crochet Guide is the Logo of the website and is linked to home page.
 
-<h2>About us:</h2> About Us is another webpage that has story of Rania's jouney of becoming  a Crochet Designer.
-<h2>Footer:</h2> you can find all Social media links here. 
-<br>
-<br>
-<br>
-<img src="assets/images/footer.png">
 
-<h2>Images:</h2>I have used few images for "Pexel.com, Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
+![Logo](documents/screenshots/logo.png)
+## Contact Us:
+ This webpage have contact us form.
+![contact-us](documents/screenshots/contactus.png)
 
-<h2>Fonts and Icons:</h2> Google font and Font Awesome icons are used for styling the website.
 
-<h2>Git Hub:</h2> i have used git hub for creating my repositoty and codespaces for creating website. I deployed my project through git hub by following these steps:
-<ol>
-<li>Create a Repository.</li>
-<li> Click settings. </li>
-<li> From the left side bar  open Pages.</li>
-<li>select main ,root branch.</li>
-<li> Deploy your work</li>
-<li>Website link will apear in few seconds.</li>
+When we press submit button, it will bring you to a new Webpage "submit-form.html".
+
+
+![thankyou-message](documents/screenshots/thankyou.png)
 
 
 
-<h2>Copyright:</h2>
 
-All the patterns and videos on this website have copyrights by Rania Crochet Guide. 
+
+
+
+
+## Home: 
+This is linked to Home page, you can come back to home page with this feacher.
+## Written Patterns:
+This is another page of the website that have images and  crochet pattern discription, this page is linked to an external blog.
+## Video Tutorial:
+This  webpage  have video tutorial for crochet projects.
+
+## TagLine and Hero Image:
+There is Tagline and hero image in the center of the page.
+
+
+
+ ![Hero-Image](documents/screenshots/home.png)
+
+
+
+## About us:
+ About Us is another webpage that has story of Rania's jouney of becoming  a Crochet Designer.
+
+
+![about-us](documents/screenshots/about-us.png)
+
+
+## Footer:
+ you can find all Social media links here. 
+
+
+ ![Footer](assets/images/footer.png)
+
+## Credits:
+
+I have used few images for "Pexel.com, Unsplash.com and FreeImages.com". Images used on written pattern are from "Rania Crochet Guide".
+
+## Fonts and Icons:
+ Google font and Font Awesome icons are used for styling the website.
+
+## Deployment:
+ I have used git hub for creating my repositoty and codespaces for creating website. I deployed my project through git hub by following these steps:
+####
+
+1. Create a Repository.
+1.  Click settings.
+1.  From the left side bar open Pages.
+1. select main ,root branch.
+1.  Deploy your work.
+1. Website link will apear in few seconds.
+
+## Cloning:
+
+ you can clone this project using this url "https://github.com/raheelaahmed/crochet-guide.git".
+
+## TESTING: 
+
+I tested my website  CSS code using  "The W3C CSS Validation Service" and there were no errors found in my css code.
+
+![css-validation](documents/screenshots/css-validation.png)
+
+
+
+I tested my HTML code using "Nu Html Checker" and there were errors or warnings in my html code.
+
+### Note: 
+"I used Gitpod Codespaces to make my project and it automatically adds "/" closing tag ,when we save the changes in the files".
+
+
+
+I used lighthouse as well for testing,here are the results:
+
+
+
+![lightouse-performace](documents/screenshots/inspect-lighthouse.png)
+
+
+![html-testing](documents/screenshots/performance-testing.png)
+
+
+
+## Bugs ans Fixes:
+
+I was having problem with responsiveness of my webdesign and i solved my problem using "html Media Quries".
+
+
+![Responsive-design](documents/screenshots/responsivene-design.png)
+
+
+
+
 
 
 
@@ -65,4 +139,4 @@ Thank you for visiting my website! I hope you find something here that sparks yo
 
 
 
-<h1>Rania Crochet Guide</h1>
+### Rania Crochet Guide
