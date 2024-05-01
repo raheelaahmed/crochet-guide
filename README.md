@@ -186,7 +186,7 @@ I  have used lighthouse  in div tools to check the accessibility, here are the r
 
 
 
-![html-testing](documents/screenshots/performance-testing.png)
+![lighthouse-performance](documents/screenshots/lighthouse.png)
 
 
 
