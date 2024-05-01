@@ -157,7 +157,7 @@ body {
 }
 
 /*written pattern page*/
-#written-pattern h1 {
+#written-pattern h2 {
     padding-top: 90px;
     padding-left: 30px;
     text-align: center;
@@ -177,7 +177,7 @@ body {
     border: 10px solid grey;
 }
 
-#dish-cloth h2 {
+#dish-cloth h3 {
     text-align: left;
     text-transform: capitalize;
 
@@ -215,7 +215,7 @@ body {
 }
 
 
-#crochet-dress h2 {
+#crochet-dress h3 {
     text-align: left;
     text-transform: capitalize;
 
@@ -252,7 +252,7 @@ body {
     border: 10px solid grey;
 }
 
-#sleeveless-sweater h2 {
+#sleeveless-sweater h3 {
     text-align: left;
     text-transform: capitalize;
 
@@ -316,10 +316,12 @@ body {
 /* contact us page*/
 
 
-#contact-us {
+#contact-us div {
     padding-top: 80px;
     text-align: center;
-    margin-left: 650px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
 
 
 
@@ -466,9 +468,10 @@ p {
 
     }
 
+    /*
     #contact-us {
         margin-left: 0;
-    }
+    }*/
 
     #yarn img {
         width: 100%;
@@ -509,6 +512,8 @@ p {
         width: 100%;
         height: 500px;
     }
+
+
 
 
 }
