@@ -83,7 +83,7 @@ There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of t
  
  
  Below hero image there is another linked page "About Us".
- on this webpage designer share her story of becoming a ctrochet designer.
+ on this webpage designer share her story of becoming a crochet designer.
  
 
 
@@ -93,7 +93,7 @@ There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of t
 
 
 ## Footer:
- you can find all Social media links here. 
+ you can find all Social media links here. Linked pages opens in a new window.
 
 
  ![Footer](assets/images/footer.png)
@@ -114,26 +114,25 @@ I have used  images from "Pexel.com, Unsplash.com and FreeImages.com". Images us
 
 ## Deployment:
 
- I have used git hub for creating my repositoty and codespaces for creating website. I deployed my project through git hub by following these steps:
+I used GitHub for creating my repository and Codespaces for developing my website. I deployed my project through GitHub by following these steps:
 
 
 ####
 
-1. Create a Repository.
-1.  Click settings.
-1.  From the left side bar  menu open Pages.
-1. select main ,root branch.
-1.  Deploy your work.
-1. Website link will apear in few seconds.
+1. Click Settings.
+1. From the left sidebar menu, open Pages.
+1. Select the "main" branch as the root branch.
+1. eploy your work.
+1. The website link will appear in a few seconds.
 
 
- Live Website link : https://raheelaahmed.github.io/crochet-guide/
+Live Website link : https://raheelaahmed.github.io/crochet-guide/
 
 
 
 ## Cloning:
 
- you can clone this project using this url "https://github.com/raheelaahmed/crochet-guide.git".
+ You can clone this project using this URL: "https://github.com/raheelaahmed/crochet-guide.git".
 
 
 
@@ -177,8 +176,7 @@ My file adds automatic self-closing tags on "save" in Gitpod.
 
 
 
-
-I  have used lighthouse  in div tools to check the accessibility, here are the results:
+I used Lighthouse in the DevTools to check accessibility. Here are the results:
 
 
 
@@ -199,6 +197,10 @@ I was having problem with responsiveness of my webdesign and i solved my problem
 
 
 ![Responsive-design](documents/screenshots/responsivene-design.png)
+
+
+## Browser Testing:
+I tested my website on several browsers, including Chrome and Safari, and it's working fine.
 
 
 
