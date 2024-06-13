@@ -189,152 +189,109 @@ body {
     height: 500px;
 }
 
-/*#dish-cloth h3 {
-    text-align: left;
-    text-transform: capitalize;
-
-}
-
-#dish-cloth p {
-    word-spacing: 4px;
 
 
 
-    padding-top: 20px;
-    padding-left: 10px;
-    font-size: 30px;
-    padding-bottom: 40px;
-    text-align: left;
-}
-
-
-#dish-cloth h3 {
+#cloth h3 {
     color: blue;
     font-weight: bolder;
-}*/
+}
+
+#crochet-dress {
+
+    width: 700px;
+    height: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid grey;
+    display: grid;
+}
+
+#dress {
+    margin: 0 auto;
+
+    width: 500px;
+    height: 500px;
+}
 
 #crochet-dress img {
 
-    width: 375px;
-    height: 400px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: block;
-
-    margin: 0 auto;
-    text-align: center;
-    border: 10px solid grey;
+    width: 500px;
+    height: 500px;
 }
 
 
-#crochet-dress h3 {
-    text-align: left;
-    text-transform: capitalize;
-
-}
-
-#crochet-dress p {
-    word-spacing: 4px;
 
 
 
-    padding-top: 20px;
-    padding-left: 10px;
-    font-size: 30px;
-    padding-bottom: 40px;
-    text-align: left;
-}
-
-
-#crochet-dress h3 {
+#dress h3 {
     color: blue;
     font-weight: bolder;
+}
+
+#sleeveless-sweater {
+    width: 700px;
+    height: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid grey;
+    display: grid;
 }
 
 #sleeveless-sweater img {
 
-    width: 375px;
-    height: 400px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: block;
+    width: 500px;
+    height: 500px;
+}
 
+
+#sweater {
     margin: 0 auto;
-    text-align: center;
-    border: 10px solid grey;
+
+    width: 500px;
+    height: 500px;
 }
 
-#sleeveless-sweater h3 {
-    text-align: left;
-    text-transform: capitalize;
 
-}
-
-#sleeveless-sweater p {
-    word-spacing: 4px;
-
-
-
-    padding-top: 20px;
-    padding-left: 10px;
-    font-size: 30px;
-    padding-bottom: 40px;
-    text-align: left;
-}
-
-#sleeveless-sweater h3 {
+#sweater h3 {
     color: blue;
     font-weight: bolder;
+}
+
+#heart {
+    width: 700px;
+    height: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid grey;
+    display: grid;
 }
 
 #heart img {
 
-    width: 375px;
-    height: 400px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: block;
+    width: 500px;
+    height: 500px;
+}
 
+
+#heart-p {
     margin: 0 auto;
-    text-align: center;
-    border: 10px solid grey;
+
+    width: 500px;
+    height: 500px;
 }
 
-#heart h2 {
-    text-align: left;
-    text-transform: capitalize;
 
-}
-
-#heart p {
-    word-spacing: 4px;
-
-
-
-    padding-top: 20px;
-    padding-left: 10px;
-    font-size: 30px;
-    padding-bottom: 40px;
-    text-align: left;
-}
-
-#heart h3 {
+#heart-p h3 {
     color: blue;
     font-weight: bolder;
 }
-
-
-
-/* contact us page*/
-
-
-#contact-us {
-
-    margin-top: 100px;
-
-}
-
-
 
 
 
