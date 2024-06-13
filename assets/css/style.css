@@ -360,8 +360,7 @@ body {
 
 /*footer background*/
 footer {
-
-    background-color: rosybrown;
+    background: linear-gradient(to top, #cc99ff 0%, #66ff99 100%);
 
     width: 100%;
 
