@@ -163,6 +163,8 @@ body {
 
 }
 
+/* picture and paragraphs for written patterns*/
+/*dish cloth*/
 #dish-cloth {
 
     width: 700px;
@@ -183,6 +185,7 @@ body {
     height: 500px;
 }
 
+/* dish-cloth child div cloth*/
 #cloth {
     margin: 0 auto;
 
@@ -397,6 +400,109 @@ body>footer {
 
 /* Styles for extra small devices (up to 600px) */
 @media (min-width:300px) and (max-width: 600px) {
+
+    #written-pattern {
+        margin-bottom: 20px;
+        margin-top: 20px;
+
+    }
+
+    #dish-cloth {
+
+        width: 300px;
+        height: 600px;
+        margin-left: 0;
+
+
+
+
+
+    }
+
+    #dish-cloth img {
+        width: 300px;
+        height: 300px;
+    }
+
+    #cloth {
+        margin: 0 auto;
+
+        width: 300px;
+        height: 500px;
+    }
+
+    #crochet-dress {
+
+        width: 300px;
+        height: 600px;
+        margin-left: 0;
+
+
+
+
+
+    }
+
+    #crochet-dress img {
+        width: 300px;
+        height: 300px;
+    }
+
+    #dress {
+        margin: 0 auto;
+
+        width: 300px;
+        height: 500px;
+    }
+
+    #sleeveless-sweater {
+
+        width: 300px;
+        height: 800px;
+        margin-left: 0;
+
+
+
+
+
+    }
+
+    #sleeveless-sweater img {
+        width: 300px;
+        height: 300px;
+    }
+
+    #sweater {
+        margin: 0 auto;
+
+        width: 300px;
+        height: 500px;
+    }
+
+    #heart {
+
+        width: 300px;
+        height: 600px;
+        margin-left: 0;
+
+
+
+
+
+    }
+
+    #heart img {
+        width: 300px;
+        height: 300px;
+    }
+
+    #heart-p {
+        margin: 0 auto;
+
+        width: 300px;
+        height: 500px;
+    }
+
     #message {
 
 
