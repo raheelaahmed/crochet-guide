@@ -295,7 +295,9 @@ body {
 
 
 
-
+#contact-us{
+    margin-top:100px;
+}
 
 #contact-us form button {
     font-size: larger;
