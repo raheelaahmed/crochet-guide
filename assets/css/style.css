@@ -300,7 +300,7 @@ body {
 #contact-us form button {
     font-size: larger;
     font-weight: bold;
-    background-color: mistyrose;
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 
