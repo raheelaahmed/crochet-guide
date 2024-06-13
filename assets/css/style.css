@@ -9,7 +9,7 @@
 
 body {
 
-    background-color: mistyrose;
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 
@@ -173,8 +173,9 @@ body {
 
     margin: 0 auto;
     text-align: center;
-    border: 2px solid grey;
+
     display: grid;
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 #dish-cloth img {
@@ -205,8 +206,10 @@ body {
     padding-bottom: 50px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid grey;
+
     display: grid;
+
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 #dress {
@@ -238,8 +241,10 @@ body {
     padding-bottom: 50px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid grey;
+
     display: grid;
+
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 #sleeveless-sweater img {
@@ -269,8 +274,10 @@ body {
     padding-bottom: 50px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid grey;
+
     display: grid;
+
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 #heart img {
