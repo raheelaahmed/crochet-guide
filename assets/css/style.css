@@ -295,8 +295,8 @@ body {
 
 
 
-#contact-us{
-    margin-top:100px;
+#contact-us {
+    margin-top: 100px;
 }
 
 #contact-us form button {
@@ -393,7 +393,8 @@ body>footer {
 
     #story {
         width: 300px;
-        margin-left: 20px;
+        margin-left: 50px;
+
 
 
 
@@ -403,9 +404,13 @@ body>footer {
         font-size: 16px;
     }
 
+
+
     #image img {
         width: 300px;
         height: 300px;
+        margin-left: 25px;
+
 
     }
 
@@ -527,8 +532,11 @@ body>footer {
         height: 50px;
         text-align: center;
         font-size: 12px;
-        margin: 40px 10px;
-        padding: 100px 20px;
+        margin: 30px 25px;
+
+
+        padding-left: 10px;
+        padding-right: 10px;
 
 
     }
@@ -548,6 +556,7 @@ body>footer {
 
         margin-bottom: 20px;
         margin-top: 30px;
+        margin-top: 100px;
 
     }
 
