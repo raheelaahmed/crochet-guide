@@ -6,7 +6,7 @@
 
 
 }
-
+/*background-color*/
 body {
 
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
@@ -66,7 +66,7 @@ body {
 
 }
 
-/* main page image*/
+/* hero image*/
 #yarn {
     text-align: center;
     width: 100%;
@@ -74,7 +74,7 @@ body {
 }
 
 
-
+/*about-us heading*/
 
 #about-us h2 {
     text-align: center;
@@ -110,6 +110,7 @@ body {
 }
 
 /* about us page*/
+/* about-us page heading styling*/
 #story h2 {
 
 
@@ -126,7 +127,7 @@ body {
 
 
 }
-
+/* about-us image div styling */
 #image {
     display: flexbox;
     margin-left: 25px;
@@ -186,7 +187,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
-
+/* crochet-dress styling*/
 #crochet-dress {
 
     width: 700px;
@@ -200,7 +201,7 @@ body {
 
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
-
+/* crochet-dress child div dress styling*/
 #dress {
     margin: 0 auto;
 
@@ -222,7 +223,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
-
+/* sleeveless-sweater div styling*/
 #sleeveless-sweater {
     width: 700px;
     height: 900px;
@@ -241,7 +242,7 @@ body {
     width: 500px;
     height: 500px;
 }
-
+/* sleeveless-sweater child div sweater styling*/
 
 #sweater {
     margin: 0 auto;
@@ -255,7 +256,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
-
+/* heart div styling*/
 #heart {
     width: 700px;
     height: 900px;
@@ -275,7 +276,7 @@ body {
     height: 500px;
 }
 
-
+/*. heart childdiv heart-p styling*/
 #heart-p {
     margin: 0 auto;
 
@@ -292,7 +293,7 @@ body {
 
 
 
-
+/*contact-us styling*/
 
 
 #contact-us {
