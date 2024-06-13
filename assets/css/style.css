@@ -112,20 +112,18 @@ body {
 /* about us page*/
 #story h2 {
 
-    padding-top: 80px;
-    padding-left: 10px;
+
+    margin-top: 150px;
     font-size: 25px;
 
 
 }
 
 #story p {
-    word-spacing: 4px;
-    padding-top: 20px;
-    padding-left: 10px;
+    word-spacing: 2px;
     font-size: 30px;
     padding-bottom: 40px;
-    text-align: left;
+
 
 }
 
@@ -386,6 +384,28 @@ body>footer {
 
 /* Styles for extra small devices (up to 600px) */
 @media (min-width:300px) and (max-width: 500px) {
+
+    #story h2 {
+        margin-top: 80px;
+    }
+
+    #story {
+        width: 300px;
+        margin-left: 20px;
+
+
+
+    }
+
+    #story p {
+        font-size: 16px;
+    }
+
+    #image img {
+        width: 300px;
+        height: 300px;
+
+    }
 
     #video {
         width: 300px;
