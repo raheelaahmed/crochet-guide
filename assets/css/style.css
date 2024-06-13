@@ -156,11 +156,11 @@ body {
 }
 
 /*written pattern page*/
-#written-pattern h2 {
-    padding-top: 90px;
-    padding-left: 30px;
+#written-pattern {
+
     text-align: center;
-    text-transform: capitalize;
+    margin-bottom: 100px;
+
 }
 
 #dish-cloth {
