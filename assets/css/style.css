@@ -6,6 +6,7 @@
 
 
 }
+
 /*background-color*/
 body {
 
@@ -37,7 +38,7 @@ body {
 #menu ul {
 
 
-  
+
 
 
     margin: 20px;
@@ -127,6 +128,7 @@ body {
 
 
 }
+
 /* about-us image div styling */
 #image {
     display: flexbox;
@@ -187,6 +189,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
+
 /* crochet-dress styling*/
 #crochet-dress {
 
@@ -201,6 +204,7 @@ body {
 
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
+
 /* crochet-dress child div dress styling*/
 #dress {
     margin: 0 auto;
@@ -223,6 +227,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
+
 /* sleeveless-sweater div styling*/
 #sleeveless-sweater {
     width: 700px;
@@ -242,6 +247,7 @@ body {
     width: 500px;
     height: 500px;
 }
+
 /* sleeveless-sweater child div sweater styling*/
 
 #sweater {
@@ -256,6 +262,7 @@ body {
     color: blue;
     font-weight: bolder;
 }
+
 /* heart div styling*/
 #heart {
     width: 700px;
@@ -616,9 +623,20 @@ body>footer {
 
 
 /* Styles for medium devices (landscape tablets: 768px to 992px) */
-@media only screen and (min-width: 768px) and (max-width: 992px) {
-    body {
-        width: 100%;
+@media only screen and (min-width: 520px) and (max-width: 950px) {
+    #message {
+
+
+        width: 600px;
+        height: 50px;
+        text-align: center;
+        font-size: 12px;
+        margin: 30px 60px;
+
+
+        padding-left: 10px;
+        padding-right: 10px;
+
 
     }
 
