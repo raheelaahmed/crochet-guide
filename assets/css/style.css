@@ -1,5 +1,5 @@
 * {
-    color:black;
+    color: black;
 
     font-family: "Montserrat", sans-serif;
 
@@ -20,9 +20,10 @@ body {
 
     font-weight: bold;
 
-    float: left;
+    text-align: left;
     font-size: 25px;
     margin-left: 10px;
+    margin-top: 0;
 
 
 }
@@ -404,25 +405,39 @@ body>footer {
 
 /* submit form page*/
 
-
-#message h2 {
-    text-transform: capitalize;
-    padding-top: 250px;
-
-
-}
-
-#message h2,
-p {
+#message {
     text-align: center;
-    font-size: 40px;
+    width: 500px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 250px;
+    border: 2px solid black;
 
 
 }
+
+
+
 
 /* Styles for extra small devices (up to 600px) */
 @media (min-width:300px) and (max-width: 600px) {
+    #message {
 
+
+        width: 300px;
+        height: 50px;
+        text-align: center;
+        font-size: 12px;
+        margin-left: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-top: 40px;
+
+
+
+    }
 
     #logo {
 
@@ -438,6 +453,7 @@ p {
     #contact-us {
 
         margin-bottom: 20px;
+        margin-top: 30px;
 
     }
 
@@ -449,16 +465,16 @@ p {
     }
 
     #menu {
-        font-size: 12px;
+        font-size: 10px;
         margin: auto;
-        font-weight: bold;
+
 
 
     }
 
     #menu li {
 
-        width: 25px;
+        width: 29px;
         float: center;
 
 
