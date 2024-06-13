@@ -163,20 +163,33 @@ body {
     text-transform: capitalize;
 }
 
-#dish-cloth img {
+#dish-cloth {
 
-    width: 375px;
-    height: 400px;
+    width: 700px;
+    height: 900px;
     padding-top: 50px;
     padding-bottom: 50px;
-    display: block;
+
 
     margin: 0 auto;
     text-align: center;
-    border: 10px solid grey;
+    border: 2px solid grey;
+    display: grid;
 }
 
-#dish-cloth h3 {
+#dish-cloth img {
+    width: 500px;
+    height: 500px;
+}
+
+#cloth {
+    margin: 0 auto;
+
+    width: 500px;
+    height: 500px;
+}
+
+/*#dish-cloth h3 {
     text-align: left;
     text-transform: capitalize;
 
@@ -198,7 +211,7 @@ body {
 #dish-cloth h3 {
     color: blue;
     font-weight: bolder;
-}
+}*/
 
 #crochet-dress img {
 
