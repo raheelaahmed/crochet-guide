@@ -360,6 +360,7 @@ footer {
     background: linear-gradient(to top, #cc99ff 0%, #66ff99 100%);
 
     width: 100%;
+   
 
 
 
@@ -385,6 +386,7 @@ body>footer {
     margin: 0 auto;
     padding: 250px;
     border: 1px solid black;
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 
 
 }
@@ -424,6 +426,7 @@ body>footer {
 
     #video {
         width: 300px;
+
     }
 
     #video iframe {
