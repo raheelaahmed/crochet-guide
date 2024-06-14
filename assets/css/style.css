@@ -366,6 +366,7 @@ footer {
 
 }
 
+/* sticking footer at bottomof page*/
 html,
 body {
     height: 100%;
@@ -397,6 +398,7 @@ body>footer {
 /* Styles for extra small devices (up to 690px) */
 @media (min-width:300px) and (max-width: 690px) {
 
+    /* about-us paragraph and images*/
     #story h2 {
         margin-top: 80px;
     }
@@ -424,6 +426,8 @@ body>footer {
 
     }
 
+    /* video tutorail div and iframes*/
+
     #video {
         width: 300px;
 
@@ -434,11 +438,15 @@ body>footer {
         height: 300px;
     }
 
+    /*written patterns heading*/
+
     #written-pattern {
         margin-bottom: 20px;
         margin-top: 20px;
 
     }
+
+    /* dish-cloth picture and paragraph on written patterns*/
 
     #dish-cloth {
 
@@ -464,6 +472,8 @@ body>footer {
         height: 500px;
     }
 
+    /* crochet-dress picture and paragraph on written patterns*/
+
     #crochet-dress {
 
         width: 300px;
@@ -487,6 +497,8 @@ body>footer {
         width: 300px;
         height: 500px;
     }
+
+    /* sleevless-sweater picture and paragraph on written patterns*/
 
     #sleeveless-sweater {
 
@@ -512,6 +524,7 @@ body>footer {
         height: 500px;
     }
 
+    /* heart picture and paragraph on written patterns*/
     #heart {
 
         width: 300px;
@@ -536,6 +549,8 @@ body>footer {
         height: 500px;
     }
 
+    /* message div for submit form*/
+
     #message {
 
 
@@ -552,6 +567,8 @@ body>footer {
 
     }
 
+    /* logo or heading*/
+
     #logo {
 
         text-align: center;
@@ -562,6 +579,8 @@ body>footer {
 
 
     }
+
+    /*contact-us form div and fieldset*/
 
     #contact-us {
 
@@ -578,6 +597,7 @@ body>footer {
 
     }
 
+    /* navbar/menu*/
     #menu {
         font-size: 10px;
         margin: auto;
@@ -595,22 +615,21 @@ body>footer {
 
     }
 
-
+    /*hero image*/
     #yarn img {
         width: 100%;
         height: 400px;
     }
+
+    /* video div for video tutorials*/
 
     #video {
         width: 375px;
 
     }
 
-    footer {
-        width: 100%;
 
-
-    }
+    /*social-media*/
 
     #social-media li {
         font-size: 20px;
@@ -627,6 +646,8 @@ body>footer {
 
 /* Styles for medium devices  */
 @media only screen and (min-width: 700px) and (max-width: 950px) {
+    /* styling fo rmessage in submit-form*/
+
     #message {
 
 
@@ -643,17 +664,20 @@ body>footer {
 
     }
 
+    /*  styling hero image*/
     #yarn img {
         width: 100%;
         height: 500px;
     }
- #image img {
-     width: 700px;
-     height: 700px;
-     margin-left: 25px;
+
+    /* styling for about-us iamges*/
+    #image img {
+        width: 700px;
+        height: 700px;
+        margin-left: 25px;
 
 
- }
+    }
 
 
 
@@ -667,19 +691,8 @@ body>footer {
 
 /* Styles for large devices (laptops/desktops: 992px and up) */
 @media only screen and (min-width: 992px) {
-    body {
-        width: 100%;
 
-    }
-
-    #menu {
-        width: 100%;
-    }
-
-    #menu li {
-        font-size: 20px;
-    }
-
+    /* hero image*/
     #yarn img {
         width: 100%;
         height: 900px;
