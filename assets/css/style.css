@@ -393,6 +393,11 @@ body>footer {
 }
 
 
+#404 {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
 
 
 /* Styles for extra small devices (up to 690px) */
