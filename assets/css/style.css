@@ -395,8 +395,19 @@ body>footer {
 
 #page-404 {
     height: 300px;
-    width: 300px;
-    bg-color: white;
+    width: 400px;
+
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+
+
+}
+
+#page-404 button {
+    font-size: 16px;
+    background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
+    border-radius: 50%;
 
 }
 
