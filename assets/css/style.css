@@ -132,7 +132,7 @@ body {
 
 /* about-us image div styling */
 #image {
-    display: inline-flexbox;
+    display: inline-block;
     margin-left: 25px;
 
 
