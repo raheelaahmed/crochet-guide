@@ -31,7 +31,7 @@ website is user friendly, it has following features:
 
 
 
-![contact-us](documents/screenshots/contactus.png)
+![contact-us](documents/screenshots/contact-us.png)
 
 
 
@@ -44,7 +44,7 @@ When submit button is pressed, it takes us to a new Webpage [submit-form.html](h
 
 
 
-![thankyou-message](documents/screenshots/thankyou.png)
+![thankyou-message](documents/screenshots/message.png)
 
 
 
@@ -74,7 +74,7 @@ There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of t
 
 
 
- ![Hero-Image](documents/screenshots/home.png)
+ ![Hero-Image](documents/screenshots/index.png)
 
 
 
@@ -96,7 +96,7 @@ There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of t
  you can find all Social media links here. Linked pages opens in a new window.
 
 
- ![Footer](assets/images/footer.png)
+ ![Footer](documents/screenshots/footer.png)
 
 
 
@@ -147,7 +147,7 @@ I tested my website  CSS code using official Jigsaw Validator and there were no 
 
 
 
-![css-validation](documents/screenshots/css-validation.png)
+![css-validation](documents/screenshots/css-validator.png)
 
 
 
@@ -164,7 +164,7 @@ My file adds automatic self-closing tags on "save" in Gitpod.
 
 
 
-![HTML-testing](documents/screenshots/html-testing.png)
+![HTML-testing](documents/screenshots/html-validator.png)
 
 
 
@@ -184,7 +184,7 @@ I used Lighthouse in the DevTools to check accessibility. Here are the results:
 
 
 
-![lighthouse-performance](documents/screenshots/lighthouse.png)
+![lighthouse-performance](documents/screenshots/lighthouse-p.png)
 
 
 
@@ -196,7 +196,7 @@ I was having problem with responsiveness of my webdesign and i solved my problem
 
 
 
-![Responsive-design](documents/screenshots/responsivene-design.png)
+![Responsive-design](documents/screenshots/responsiveness.png)
 
 
 ## Browser Testing:
