@@ -99,6 +99,14 @@ There is Tagline "keep Calm And Crochet On" and  a hero image under tagline of t
  ![Footer](documents/screenshots/footer.png)
 
 
+ ## 404 page:
+  I have added a customized 404 page to the website to make it more userFriendly, it has a link for the home page. If there is any error or page is unable to load, 404 will show up and you can click the link to go back to home page.
+
+
+
+ ![404](ddocuments/screenshots/404-page.png)
+
+
 
 
 ## Credits:
@@ -133,6 +141,9 @@ Live Website link : https://raheelaahmed.github.io/crochet-guide/
 ## Cloning:
 
  You can clone this project using this URL: "https://github.com/raheelaahmed/crochet-guide.git".
+
+
+
 
 
 
@@ -185,6 +196,27 @@ I used Lighthouse in the DevTools to check accessibility. Here are the results:
 
 
 ![lighthouse-performance](documents/screenshots/lighthouse-p.png)
+
+
+
+
+### Manual Testing:
+
+
+| Tests     | working   |    
+| :---      |    :----: |       
+| index.html   | Yes      | 
+| about-us.html | Yes       | 
+|  written-patterns.html|Yes |
+| video-tutorials |  Yes|
+| contact-us |Yes|
+| External Links|  Yes|
+| Social-Media |  Yes|
+| Images and videos |Yes|
+| 404 page |  Yes|
+
+
+
 
 
 
