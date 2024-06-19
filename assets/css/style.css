@@ -1,10 +1,7 @@
+/*color and font for all website*/
 * {
     color: black;
-
     font-family: "Montserrat", sans-serif;
-
-
-
 }
 
 /*background-color*/
@@ -18,37 +15,20 @@ body {
 /*logo styling*/
 #logo {
 
-
-
     font-weight: bold;
-
     text-align: left;
     font-size: 25px;
     margin-left: 10px;
     margin-top: 0;
-
-
 }
 
 
 
 /* navbar(menu) styling*/
-
-
-
 #menu ul {
-
-
-
-
-
     margin: 20px;
     padding: 10px;
-
     text-align: center;
-
-
-
 }
 
 #menu li {
@@ -77,16 +57,9 @@ body {
 
 
 /*about-us heading*/
-
 #about-us h2 {
     text-align: center;
-
 }
-
-
-
-
-
 
 
 /* footer social media links*/
@@ -96,9 +69,6 @@ body {
     margin: 0 auto;
     padding-top: 60px;
     padding-bottom: 40px;
-
-
-
 }
 
 #social-media li {
@@ -107,65 +77,52 @@ body {
     text-transform: capitalize;
     font-size: 25px;
     word-spacing: 30px;
-
-
 }
 
 /* about us page*/
+
 /* about-us page heading styling*/
 #story h2 {
-
-
     margin-top: 150px;
     font-size: 25px;
-
-
 }
 
 #story p {
     word-spacing: 2px;
     font-size: 30px;
     padding-bottom: 40px;
-
-
 }
+
 
 /* about-us image div styling */
 #image {
     display: inline-block;
     margin-left: 25px;
-
-
 }
 
 
 #image img {
     width: 400px;
     height: 400px;
-
 }
+
 
 /*written pattern page*/
 #written-pattern {
-
     text-align: center;
     margin-bottom: 100px;
-
 }
 
 /* picture and paragraphs for written patterns*/
+
 /*dish cloth*/
 #dish-cloth {
-
     width: 700px;
     height: 900px;
     padding-top: 50px;
     padding-bottom: 50px;
-
-
     margin: 0 auto;
     text-align: center;
-
     display: grid;
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
@@ -175,21 +132,20 @@ body {
     height: 500px;
 }
 
+
 /* dish-cloth child div cloth*/
 #cloth {
     margin: 0 auto;
-
     width: 500px;
     height: 500px;
 }
-
-
 
 
 #cloth h3 {
     color: blue;
     font-weight: bolder;
 }
+
 
 /* crochet-dress styling*/
 #crochet-dress {
@@ -200,34 +156,28 @@ body {
     padding-bottom: 50px;
     margin: 0 auto;
     text-align: center;
-
     display: grid;
-
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
+
 
 /* crochet-dress child div dress styling*/
 #dress {
     margin: 0 auto;
-
     width: 500px;
     height: 500px;
 }
 
 #crochet-dress img {
-
     width: 500px;
     height: 500px;
 }
-
-
-
-
 
 #dress h3 {
     color: blue;
     font-weight: bolder;
 }
+
 
 /* sleeveless-sweater div styling*/
 #sleeveless-sweater {
@@ -237,23 +187,21 @@ body {
     padding-bottom: 50px;
     margin: 0 auto;
     text-align: center;
-
     display: grid;
-
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
 }
 
 #sleeveless-sweater img {
-
     width: 500px;
     height: 500px;
 }
+
+
 
 /* sleeveless-sweater child div sweater styling*/
 
 #sweater {
     margin: 0 auto;
-
     width: 500px;
     height: 500px;
 }
@@ -321,7 +269,6 @@ body {
     width: 350px;
     height: 300px;
     margin: 0 auto;
-
     text-align: center;
     padding-top: 100px;
 
@@ -349,22 +296,10 @@ body {
 
 
 
-
-
-
-
-
-
-
 /*footer background*/
 footer {
     background: linear-gradient(to top, #cc99ff 0%, #66ff99 100%);
-
     width: 100%;
-
-
-
-
 }
 
 /* sticking footer at bottomof page*/
@@ -389,20 +324,14 @@ body>footer {
     padding: 250px;
     /* border: 1px solid black;*/
     background: linear-gradient(to left, #ccffcc 0%, #ccccff 100%);
-
-
 }
 
 
 #page-404 {
-
     width: 100%;
     padding-top: 200px;
     margin: 0 auto;
     text-align: center;
-
-
-
 }
 
 
@@ -419,24 +348,16 @@ body>footer {
     #story {
         width: 300px;
         margin-left: 50px;
-
-
-
-
     }
 
     #story p {
         font-size: 16px;
     }
 
-
-
     #image img {
         width: 300px;
         height: 300px;
         margin-left: 25px;
-
-
     }
 
     /* video tutorail div and iframes*/
@@ -466,11 +387,6 @@ body>footer {
         width: 300px;
         height: 600px;
         margin-left: 0;
-
-
-
-
-
     }
 
     #dish-cloth img {
@@ -492,11 +408,6 @@ body>footer {
         width: 300px;
         height: 600px;
         margin-left: 0;
-
-
-
-
-
     }
 
     #crochet-dress img {
@@ -511,6 +422,7 @@ body>footer {
         height: 500px;
     }
 
+
     /* sleevless-sweater picture and paragraph on written patterns*/
 
     #sleeveless-sweater {
@@ -518,11 +430,6 @@ body>footer {
         width: 300px;
         height: 800px;
         margin-left: 0;
-
-
-
-
-
     }
 
     #sleeveless-sweater img {
@@ -537,17 +444,14 @@ body>footer {
         height: 500px;
     }
 
+
+
     /* heart picture and paragraph on written patterns*/
     #heart {
 
         width: 300px;
         height: 600px;
         margin-left: 0;
-
-
-
-
-
     }
 
     #heart img {
@@ -557,23 +461,19 @@ body>footer {
 
     #heart-p {
         margin: 0 auto;
-
         width: 300px;
         height: 500px;
     }
 
+
     /* message div for submit form*/
 
     #message {
-
-
         width: 300px;
         height: 50px;
         text-align: center;
         font-size: 12px;
         margin: 0 auto;
-
-
         padding-left: 10px;
         padding-right: 10px;
 
@@ -588,15 +488,11 @@ body>footer {
         width: 300px;
         font-size: 12px;
         margin-bottom: 20px;
-
-
-
     }
 
     /*contact-us form div and fieldset*/
 
     #contact-us {
-
         margin-bottom: 20px;
         margin-top: 30px;
         margin-top: 100px;
@@ -604,35 +500,30 @@ body>footer {
     }
 
     #contact-us fieldset {
-
         width: 300px;
         height: 250px;
 
     }
 
+
     /* navbar/menu*/
     #menu {
         font-size: 10px;
         margin: auto;
-
-
-
     }
 
     #menu li {
-
         width: 29px;
         float: right;
-
-
-
     }
+
 
     /*hero image*/
     #yarn img {
         width: 100%;
         height: 400px;
     }
+
 
     /* video div for video tutorials*/
 
@@ -647,11 +538,7 @@ body>footer {
     #social-media li {
         font-size: 20px;
         width: 10px;
-
     }
-
-
-
 
 }
 
@@ -662,20 +549,15 @@ body>footer {
     /* styling fo rmessage in submit-form*/
 
     #message {
-
-
         width: 600px;
         height: 50px;
         text-align: center;
         font-size: 12px;
         margin: 30px 60px;
-
-
         padding-left: 10px;
         padding-right: 10px;
-
-
     }
+
 
     /*  styling hero image*/
     #yarn img {
@@ -683,22 +565,14 @@ body>footer {
         height: 500px;
     }
 
+
     /* styling for about-us iamges*/
     #image img {
         width: 700px;
         height: 700px;
         margin-left: 25px;
 
-
     }
-
-
-
-
-
-
-
-
 }
 
 
