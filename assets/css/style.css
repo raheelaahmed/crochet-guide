@@ -585,5 +585,9 @@ body>footer {
         height: 900px;
     }
 
+    body {
+        width: 100%;
+    }
+
 
 }
