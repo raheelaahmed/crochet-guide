@@ -51,14 +51,18 @@ body {
 /* hero image*/
 #yarn {
     text-align: center;
-    width: 100%;
-    margin-left: 0;
+    margin-right:20px;
+}
+
+#yarn img {
+    max-width: 100%; /* Prevents the image from being larger than the div */
+    height: auto; /* Maintains the image's aspect ratio */
 }
 
 
 /*about-us heading*/
 #about-us h2 {
-    text-align: center;
+    text-align: center;s
 }
 
 
